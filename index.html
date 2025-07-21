@@ -141,13 +141,7 @@
                 });
         }
 
-        // Fetch options for each dropdown on page load
-        window.onload = function() {
-            fetchOptions('/bedrooms', 'beds');
-            fetchOptions('/bathrooms', 'baths');
-            fetchOptions('/sizes', 'size');
-            fetchOptions('/zip_codes', 'zip_code');
-        };
+    
 
         // JavaScript function to send data and receive predicted price
         function sendData() {
