@@ -2,6 +2,9 @@
 
 A web application that predicts house prices based on various features such as location, size, and other property attributes.  
 This project uses a **Ridge Regression model** trained on a real-estate dataset.
+
+[**View Live Demo**](https://bmi-online.vercel.app/)
+
 ---
 
 ![Project Screenshot](https://raw.githubusercontent.com/Aditya-Sai-19/House_Price_Prediction_Model/main/project-screenshot.png)
