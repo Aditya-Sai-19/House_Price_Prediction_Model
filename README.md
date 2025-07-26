@@ -84,6 +84,11 @@ The application will be available at **http://127.0.0.1:5000**
 The model is trained on real estate price datasets (`archive/train.csv` & `archive/test.csv`) with feature engineering applied on `final_dataset.csv`.
 
 ---
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE.md).
+
+---
 
 ## 👨‍💻 Author
 **Aditya Sai**  
